@@ -13,7 +13,9 @@ class SpringbootJenkinsWithGithubAndTestCaseApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("Appllication Test method running");
+		logger.info(" Test case executing here");
+		logger.info(" Test case executing here");
+
 		assertEquals(true, true);
 	}
 

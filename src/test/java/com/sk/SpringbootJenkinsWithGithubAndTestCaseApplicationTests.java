@@ -12,7 +12,7 @@ class SpringbootJenkinsWithGithubAndTestCaseApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(SpringbootJenkinsWithGithubAndTestCaseApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	public contextLoads() {
 		logger.info(" Test case executing here");
 		logger.info(" Test case executing here");
 

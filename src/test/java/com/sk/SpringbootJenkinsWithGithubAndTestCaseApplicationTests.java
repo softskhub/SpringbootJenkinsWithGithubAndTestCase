@@ -12,7 +12,7 @@ class SpringbootJenkinsWithGithubAndTestCaseApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(SpringbootJenkinsWithGithubAndTestCaseApplicationTests.class);
 
 	@Test
-	public vod contextLoads() {
+	 void contextLoads() {
 		logger.info(" Test case executing here");
 		logger.info(" Test case executing here");
 
